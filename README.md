@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tom, <a href="https://www.linkedin.com/in/tom-kitching/">Applied Data Scientist & Structural Engineer</a>!</h1>
+<h1>Hi, I'm Tom, an <a href="https://www.linkedin.com/in/tom-kitching/">Applied Data Scientist & Structural Engineer</a>!</h1>
 
 <h2>👨‍💻 Deep Learning Projects:</h2>
 
